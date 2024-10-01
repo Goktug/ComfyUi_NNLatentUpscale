@@ -1,3 +1,5 @@
+### Forked: Registered to Custom Node Registry
+
 # ComfyUI Neural network latent upscale custom node
 
 ![Example 1](./examples/sdxl_kanagawa_512x512.png)
